@@ -51,20 +51,20 @@ pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 // Floating Background Elements
 floatingEmojis: {
     hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    cow: ['🐮', '🐄']                       // Bear emojis in background
 }
 
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
+        text: "Me quieres?",                   // First question
+        yesBtn: "Si",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "No te quiero,Te amo❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
+        text: "Cuanto me amas?",          // Second question
+        startText: "Tanto asi!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
